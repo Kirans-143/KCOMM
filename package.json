@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "kcomm",
+  "description": "created basic route grocery, clothing\r npm i express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirans-143/KCOMM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirans-143/KCOMM/issues"
+  },
+  "homepage": "https://github.com/Kirans-143/KCOMM#readme"
+}
